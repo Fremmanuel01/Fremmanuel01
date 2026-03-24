@@ -1,49 +1,57 @@
 <div align="center">
 
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Emmanuel%20Nwabufo&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Junior%20Full%20Stack%20Developer%20%7C%20AI%20%26%20SaaS%20Enthusiast&descSize=18&descAlignY=55" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=1a1a2e&height=120&text=Emmanuel%20Nwabufo&fontSize=36&fontColor=ffffff&fontAlignY=45&desc=Full%20Stack%20Developer%20%C2%B7%20AI%20%26%20SaaS%20Builder%20%C2%B7%20Nigeria&descSize=14&descAlignY=68&descColor=aaaacc" />
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Junior+Full+Stack+Developer+%F0%9F%92%BB;30%2B+Production+Websites+Delivered+%F0%9F%9A%80;AI+%26+SaaS+Enthusiast+%F0%9F%A4%96;Le+Wagon+Berlin+Graduate+%F0%9F%8E%93" alt="Typing SVG" />
-  </a>
+</div>
 
-  <br/>
+<br/>
 
-  <img src="https://komarev.com/ghpvc/?username=Fremmanuel01&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile Views" />
+<div align="center">
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1400&color=1a1a2e&center=true&vCenter=true&multiline=true&repeat=true&width=520&height=50&lines=30%2B+Production+Websites+Delivered;Building+AI-Powered+%26+SaaS+Applications;Le+Wagon+Berlin+Graduate+%C2%B7+2026" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Fremmanuel01&label=Profile+Views&color=1a1a2e&style=flat-square" alt="Profile Views" />
+&nbsp;&nbsp;
+![Status](https://img.shields.io/badge/Status-Open%20to%20Remote-1a1a2e?style=flat-square)
+![Location](https://img.shields.io/badge/Location-Nigeria-1a1a2e?style=flat-square)
 
 </div>
 
 ---
 
-## About Me
-
+## Profile
 ```yaml
-name: Emmanuel Nwabufo
-role: Junior Full Stack Developer
-location: Nigeria
-education: Le Wagon Berlin - AI Software Development Bootcamp (2026)
+name:       Emmanuel Nwabufo
+role:       Full Stack Developer
+location:   Nigeria
+education:  Le Wagon Berlin — AI Software Development Bootcamp (2026)
 background: Philosophy & Theology
-focus: AI-powered & SaaS Web Applications
-available_for: Remote opportunities (US / Europe)
+focus:      AI-powered & SaaS Web Applications
+seeking:    Remote opportunities · US / Europe
 ```
 
-> I'm a **Junior Full Stack Developer** passionate about building **AI-powered** and **SaaS web applications**. With hands-on experience delivering **30+ production websites** for businesses, universities, NGOs, hospitals, and e-commerce platforms, I bring a unique blend of technical skill and analytical thinking from my background in **Philosophy and Theology**.
->
-> I'm currently seeking **remote opportunities** with US or European companies building impactful AI and SaaS products.
+I'm a **Full Stack Developer** with a background in **Philosophy and Theology** — disciplines that shaped how I break down complex problems and communicate clearly with clients. I've shipped **30+ production websites** across businesses, universities, NGOs, hospitals, and e-commerce platforms. My current focus is building intelligent, scalable **AI and SaaS products** for forward-thinking teams.
+
+> Seeking **remote opportunities** with US or European companies building impactful products.
 
 ---
 
-## Key Achievements
+## Impact
 
 <div align="center">
 
 | Metric | Result |
-|:---|:---|
+|:---|---:|
 | Production Websites Delivered | **30+** |
-| Client Engagement Growth | **Up to 65%** |
+| Client Engagement Growth | **+65%** |
 | Site Performance Improvement | **50% faster load times** |
-| Organic Traffic Increase | **30% via SEO** |
+| Organic Traffic via SEO | **+30%** |
 | Client Retention Rate | **95%** |
-| Device Responsiveness | **100% cross-device** |
+| Cross-Device Responsiveness | **100%** |
 
 </div>
 
@@ -53,120 +61,34 @@ available_for: Remote opportunities (US / Europe)
 
 <div align="center">
 
-#### Languages
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+**Languages**
 
-#### Frameworks & Libraries
-![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Stimulus](https://img.shields.io/badge/Stimulus-77E8B9?style=for-the-badge&logo=stimulus&logoColor=black)
+![Ruby](https://img.shields.io/badge/Ruby-1a1a2e?style=flat-square&logo=ruby&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-1a1a2e?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-1a1a2e?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1a1a2e?style=flat-square&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-1a1a2e?style=flat-square&logo=postgresql&logoColor=white)
 
-#### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+**Frameworks & Libraries**
 
-#### Specialties
-![AI](https://img.shields.io/badge/AI_Development-6C63FF?style=for-the-badge&logo=openai&logoColor=white)
-![SaaS](https://img.shields.io/badge/SaaS-FF6B6B?style=for-the-badge&logo=stripe&logoColor=white)
-![SEO](https://img.shields.io/badge/SEO-47A248?style=for-the-badge&logo=google&logoColor=white)
-![Responsive Design](https://img.shields.io/badge/Responsive_Design-FF7139?style=for-the-badge&logo=firefox&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-1a1a2e?style=flat-square&logo=ruby-on-rails&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-1a1a2e?style=flat-square&logo=bootstrap&logoColor=white)
+![Stimulus](https://img.shields.io/badge/Stimulus-1a1a2e?style=flat-square&logo=stimulus&logoColor=white)
 
-</div>
+**Tools & Platforms**
 
----
+![Git](https://img.shields.io/badge/Git-1a1a2e?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-1a1a2e?style=flat-square&logo=github&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-1a1a2e?style=flat-square&logo=heroku&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-1a1a2e?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-1a1a2e?style=flat-square&logo=figma&logoColor=white)
 
-## GitHub Stats
+**Specialties**
 
-<div align="center">
-
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Fremmanuel01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" />
-
-<h3 align="center">Junior Full Stack Developer | AI & SaaS Enthusiast | Nigeria</h3>
-
-<div align="center">
-
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=30%2B+Production+Websites+Delivered;AI+%26+SaaS+Enthusiast;Le+Wagon+Berlin+Graduate+2026" alt="Typing SVG" />
-  </a>
-
-  <br/>
-
-  <img src="https://komarev.com/ghpvc/?username=Fremmanuel01&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile Views" />
-
-</div>
-
----
-
-## About Me
-
-```yaml
-name: Emmanuel Nwabufo
-role: Junior Full Stack Developer
-location: Nigeria
-education: Le Wagon Berlin - AI Software Development Bootcamp (2026)
-background: Philosophy & Theology
-focus: AI-powered & SaaS Web Applications
-available_for: Remote opportunities (US / Europe)
-```
-
-> I'm a **Junior Full Stack Developer** passionate about building **AI-powered** and **SaaS web applications**. With hands-on experience delivering **30+ production websites** for businesses, universities, NGOs, hospitals, and e-commerce platforms, I bring a unique blend of technical skill and analytical thinking from my background in **Philosophy and Theology**.
->
-> I'm currently seeking **remote opportunities** with US or European companies building impactful AI and SaaS products.
-
----
-
-## Key Achievements
-
-<div align="center">
-
-| Metric | Result |
-|:---|:---|
-| Production Websites Delivered | **30+** |
-| Client Engagement Growth | **Up to 65%** |
-| Site Performance Improvement | **50% faster load times** |
-| Organic Traffic Increase | **30% via SEO** |
-| Client Retention Rate | **95%** |
-| Device Responsiveness | **100% cross-device** |
-
-</div>
-
----
-
-## Tech Stack
-
-<div align="center">
-
-#### Languages
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-#### Frameworks & Libraries
-![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Stimulus](https://img.shields.io/badge/Stimulus-77E8B9?style=for-the-badge&logo=stimulus&logoColor=black)
-
-#### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-#### Specialties
-![AI](https://img.shields.io/badge/AI_Development-6C63FF?style=for-the-badge&logo=openai&logoColor=white)
-![SaaS](https://img.shields.io/badge/SaaS-FF6B6B?style=for-the-badge&logo=stripe&logoColor=white)
-![SEO](https://img.shields.io/badge/SEO-47A248?style=for-the-badge&logo=google&logoColor=white)
-![Responsive Design](https://img.shields.io/badge/Responsive_Design-FF7139?style=for-the-badge&logo=firefox&logoColor=white)
+![AI Development](https://img.shields.io/badge/AI_Development-1a1a2e?style=flat-square&logo=openai&logoColor=white)
+![SaaS](https://img.shields.io/badge/SaaS-1a1a2e?style=flat-square&logo=stripe&logoColor=white)
+![SEO](https://img.shields.io/badge/SEO-1a1a2e?style=flat-square&logo=google&logoColor=white)
+![Responsive Design](https://img.shields.io/badge/Responsive_Design-1a1a2e?style=flat-square&logo=firefox&logoColor=white)
 
 </div>
 
@@ -176,36 +98,32 @@ available_for: Remote opportunities (US / Europe)
 
 <div align="center">
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Fremmanuel01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Fremmanuel01&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Fremmanuel01&show_icons=true&theme=default&hide_border=true&title_color=1a1a2e&icon_color=1a1a2e&text_color=374151&bg_color=ffffff&rank_icon=github" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Fremmanuel01&theme=default&hide_border=true&ring=1a1a2e&fire=1a1a2e&currStreakLabel=1a1a2e&dates=6b7280&background=ffffff" />
 
-  <br/>
+<br/>
 
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fremmanuel01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fremmanuel01&layout=compact&theme=default&hide_border=true&title_color=1a1a2e&text_color=374151&bg_color=ffffff" />
 
-  <br/>
+<br/><br/>
 
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Fremmanuel01&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FF6B6B" />
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Fremmanuel01&theme=minimal&hide_border=true&bg_color=ffffff&color=1a1a2e&line=1a1a2e&point=1a1a2e&area=true&area_color=e8e8f0" />
 
 </div>
 
 ---
 
-## Featured Projects
+## What I'm Building
 
-<div align="center">
-
-> *Projects coming soon - currently building exciting AI & SaaS applications!*
-
-</div>
+> Currently in build mode — AI-powered web applications and SaaS tools for real clients.
 
 <details>
-<summary>What I'm Currently Working On</summary>
+<summary>Expand</summary>
 <br/>
 
 - Building AI-powered web applications with Ruby on Rails
 - Developing SaaS solutions for businesses and institutions
-- Deepening my knowledge in machine learning and AI integration
+- Deepening expertise in machine learning and AI integration
 - Contributing to open-source projects
 
 </details>
@@ -216,32 +134,34 @@ available_for: Remote opportunities (US / Europe)
 
 <div align="center">
 
-| Institution | Program | Year |
+| Institution | Programme | Year |
 |:---|:---|:---:|
-| **Le Wagon - Berlin** | AI Software Development Bootcamp | 2026 |
+| **Le Wagon — Berlin** | AI Software Development Bootcamp | 2026 |
 
 </div>
 
-> Completed a **9-week immersive bootcamp** specializing in AI and full-stack development. Built production-ready applications with **Ruby on Rails**, implemented **Git workflows**, and collaborated in **agile teams**.
+A **9-week immersive bootcamp** specialising in AI and full-stack development. Built production-ready applications with **Ruby on Rails**, implemented professional **Git workflows**, and delivered projects inside **agile teams** under real deadlines.
 
 ---
 
-## Let's Connect
+## Contact
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-goallordstudio@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:goallordstudio@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Emmanuel_Nwabufo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/emmanuel-nwabufo)
-[![GitHub](https://img.shields.io/badge/GitHub-Fremmanuel01-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fremmanuel01)
+[![Email](https://img.shields.io/badge/goallordstudio%40gmail.com-1a1a2e?style=flat-square&logo=gmail&logoColor=white)](mailto:goallordstudio@gmail.com)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/Emmanuel_Nwabufo-1a1a2e?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/emmanuel-nwabufo)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/Fremmanuel01-1a1a2e?style=flat-square&logo=github&logoColor=white)](https://github.com/Fremmanuel01)
 
 <br/>
 
-*I'm open to freelance projects, remote roles, and collaborations. Let's build something amazing together!*
+*Open to freelance projects, remote roles, and meaningful collaborations.*
 
 </div>
 
 ---
 
 <div align="center">
-  <i>Thanks for visiting my profile!</i>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=1a1a2e&height=40" />
 </div>
